@@ -1,6 +1,8 @@
 pragma solidity ^0.4.21;
 // Bank Of Deposit
 //
+// Author: Missaoui Mounir
+//
 // This contract keeps user's ethers in its internal storage. This approach
 // allows cheaper batch transfers than series of individual Ethereum
 // transactions.
